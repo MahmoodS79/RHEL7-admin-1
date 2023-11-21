@@ -1,0 +1,10 @@
+#vim /etc/dnsmasq.conf
+
+
+# web-server.
+#address=/double-click.net/127.0.0.1
+address=/R1/192.168.157.254
+address=/PC1/192.168.157.151
+address=/PC2/192.168.157.153
+address=/gat/192.168.157.2
+address=/Ubuntu-terminal/10.0.0.10
